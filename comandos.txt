@@ -1,0 +1,8 @@
+instalação do gin: go get -u github.com/gin-gonic/gins
+
+visualizar a porta que esta utilizando para o serviço postgres:
+docker compose exec postgres sh
+hostname -i
+
+instalar o gorm: go get -u gorm.io/gorm
+instalar o drive do postgres: clica na lampada que aparece quando tenta importar o drive do go
