@@ -6,3 +6,4 @@ hostname -i
 
 instalar o gorm: go get -u gorm.io/gorm
 instalar o drive do postgres: clica na lampada que aparece quando tenta importar o drive do go
+instalar o validator:  go get gopkg.in/validator.v2
